@@ -1,3 +1,3 @@
 <?php 
 
-echo "this is new php file pushed by gitbash";
+echo "this is new php file push through gitbash";
